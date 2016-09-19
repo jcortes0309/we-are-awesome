@@ -1,0 +1,115 @@
+body {
+  padding-top: 50px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.fa-lg {
+  vertical-align: 15% !important;
+  padding-right: 5px;
+}
+
+.logo {
+  display: inline-block;
+  color: #9D9D9D;
+  font-size: 35px;
+  text-transform: uppercase;
+}
+
+.logo:hover {
+  color: white;
+}
+
+.jumbotron {
+  background-color: yellow;
+  margin: 0;
+}
+
+.col-xs-4 {
+  padding: 40px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.features {
+  background-color: pink;
+}
+
+.why {
+  text-align: center;
+  font-size: 45px;
+  padding-bottom: 25px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+
+li {
+  font-size: 20px;
+}
+
+.features p {
+  font-weight: bold;
+  font-size: 1.4em;
+}
+
+img {
+  border-radius: 50%;
+}
+
+.person {
+  padding: 3% 10% 3% 10%;
+}
+
+.person p {
+  margin-top: 5%;
+}
+
+.row a {
+  color: inherit;
+}
+
+.about-us p::first-letter {
+  float: left;
+  color: #903;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 3px;
+  -family: Georgia;
+}
+
+/* Footer */
+.footer {
+  background-color: #222;
+  color: #FFF;
+}
+
+.footer ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer .col-md-4 {
+  margin: 20px 0 20px 0;
+}
+
+.company {
+  padding-top: 10px;
+}
+
+.left li {
+  float: left;
+  padding-right: 2%;
+}
+
+.right li {
+  float: right;
+  padding-right: 2%;
+}
+
+.footer a {
+  text-decoration: none;
+}
